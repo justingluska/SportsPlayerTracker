@@ -4,8 +4,8 @@
 App store publish pending. Will be availible at
 https://apps.apple.com/us/developer/justin-gluska/id1476556395
 
-![Splash Screen](https://i.imgur.com/qa3HekD.png)
+![Splash Screen](https://i.imgur.com/qa3HekD.png =414x896)
 
-![Main Screen](https://i.imgur.com/Z42jsZE.png)
+![Main Screen](https://i.imgur.com/Z42jsZE.png =414x896)
 
-![Edit Screen](https://i.imgur.com/thXSXvI.png)
+![Edit Screen](https://i.imgur.com/thXSXvI.png =414x896)
